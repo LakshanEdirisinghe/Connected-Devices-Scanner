@@ -80,6 +80,8 @@ Scanning your local network...
 
 Scan complete. Devices found: 3
 ```
+<img width="586" height="442" alt="image" src="https://github.com/user-attachments/assets/b8fdc292-f518-42e5-bf1f-4555996b41ec" />
+
 
 ------------------------------------------------------------------------
 
